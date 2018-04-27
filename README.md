@@ -16,6 +16,6 @@
 
 
 3. [a code book
-(CodeBook.md)](https://github.com/pacha0y/DataCleaningScript/blob/master/)
+(CodeBook.md)](https://github.com/pacha0y/DataCleaningScript/blob/master/CodeBook.md)
    that describes variables, data and any transformations or work performed to
    clean up the data
